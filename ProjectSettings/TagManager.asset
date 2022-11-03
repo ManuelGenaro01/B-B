@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collider
+  - Tiro
+  - balas
+  - vida
+  - Player2
+  - Tiro2
+  - Bomba
+  - Bomba2
+  - Piedra
+  - ChauSpawn
+  - ShotSound
+  - BombSound
+  - MiniSound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Character
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2805115681
+    locked: 0
+  - name: Player
+    uniqueID: 3950369895
+    locked: 0
+  - name: back 2
+    uniqueID: 4012739919
+    locked: 0
+  - name: UI
+    uniqueID: 1233869123
+    locked: 0
